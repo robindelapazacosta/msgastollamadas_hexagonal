@@ -1,0 +1,2 @@
+bdllamadas> db.llamadas.find({fecha_hora:{$gte:ISODate('2020-12-18T02:05:00Z')}})
+bdllamadas> db.llamadas.find({fecha_hora:{$gte:ISODate('2020-12-18T00:00:00Z'),$lte:ISODate('2020-12-19T00:00:00Z')}})

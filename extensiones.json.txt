@@ -1,0 +1,99 @@
+[
+{
+    "num_extension":"201",
+    "descripcion":"Dirección"
+},
+{
+    "num_extension":"202",
+    "descripcion":"Asistente Dirección"
+},
+{
+    "num_extension":"203",
+    "descripcion":"Economico"
+},
+{
+    "num_extension":"204",
+    "descripcion":"Jefe Comercial"
+},
+{
+    "num_extension":"205",
+    "descripcion":"Jefe Logística"
+},
+{
+    "num_extension":"206",
+    "descripcion":"Jefe RH"
+},
+{
+    "num_extension":"207",
+    "descripcion":"Jefe Produccion"
+},
+{
+    "num_extension":"208",
+    "descripcion":"Asesor Juridico"
+},
+{
+    "num_extension":"209",
+    "descripcion":"Economía"
+},
+{
+    "num_extension":"210",
+    "descripcion":"Calidad e Inversiones"
+},
+{
+    "num_extension":"211",
+    "descripcion":"Comercial"
+},
+{
+    "num_extension":"212",
+    "descripcion":"Fact Comercial"
+},
+{
+    "num_extension":"213",
+    "descripcion":"Carbón Vegetal"
+},
+{
+    "num_extension":"214",
+    "descripcion":"Logística"
+},
+{
+    "num_extension":"215",
+    "descripcion":"PT"
+},
+{
+    "num_extension":"216",
+    "descripcion":"PT Desarmadora"
+},
+{
+    "num_extension":"217",
+    "descripcion":"Seg y Prot"
+},
+{
+    "num_extension":"218",
+    "descripcion":"Transporte"
+},
+{
+    "num_extension":"219",
+    "descripcion":"RH"
+},
+{
+    "num_extension":"220",
+    "descripcion":"Jefes de Fabrica"
+},
+{
+    "num_extension":"221",
+    "descripcion":"Garita"
+},
+{
+    "num_extension":"222",
+    "descripcion":"Produccion"
+},
+{
+    "num_extension":"223",
+    "descripcion":"Caja"
+},
+{
+    "num_extension":"224",
+    "descripcion":"Informático"
+}
+
+]
